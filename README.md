@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Talliesin
+- 👋 Hi, I’m @Talliesin.
 - 👀 I’m interested in coding (obviously), languages, board games and traveling.
 - 🌱 I’m currently learning C++ (learning never ends), C#, Javascript.
 
